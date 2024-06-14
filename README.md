@@ -21,4 +21,4 @@ Also used [formspree](https://formspree.io) in contact form.
 - Open the browser (chrome), type *localhost/Planet-Shopify-ecommerce-website* and you should see the index page of the website.
 
 
-*Note: In about.php in this [line](https://github.com/winston-dsouza/Planet-Shopify-ecommerce-website/blob/master/about.php#L71) enter your email* and activate the form
+
